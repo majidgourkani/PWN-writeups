@@ -9,6 +9,6 @@ Here, I have written a write-up of some pwn challenges of pwnable.kr .
 
 [random](https://github.com/majidgourkani/PWN-writeups/blob/main/random.md)
 
-[lotto](https://github.com/majidgourkani/PWN-writeups/edit/main/lotto.md)
+[lotto](https://github.com/majidgourkani/PWN-writeups/blob/main/lotto.md)
 
-[cmd1](https://github.com/majidgourkani/PWN-writeups/edit/main/cmd1.md)
+[cmd1](https://github.com/majidgourkani/PWN-writeups/blob/main/cmd1.md)
