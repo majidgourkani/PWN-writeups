@@ -20,6 +20,8 @@ in this part, the code attempt to count the number of matches in the random and 
 so if all the characters of the user input string are the same, and be the same as one character in the random string, the below condition will be passed and we will have the flag.
 ![App Screenshot](https://github.com/majidgourkani/PWN-writeups/blob/main/images/lotto-3.png)
 
+so I tried to do this play with a 6-character string of `!!!!!!` (the char code of `!` is `33`, it can be also one of `" $ # ^ % & ' ( ) * +` and ...
+after 6 tries, I got the flag. 
 
 flag is here: 
 ![App Screenshot](https://github.com/majidgourkani/PWN-writeups/blob/main/images/lotto-4.png)
