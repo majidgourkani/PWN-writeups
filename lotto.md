@@ -1,4 +1,4 @@
-## bof
+## lotto
 
 ### Challenge description:
 
