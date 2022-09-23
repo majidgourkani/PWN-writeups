@@ -23,5 +23,5 @@ as our command run in the `sh`, so we should use a built-in commands of sh. from
 and the flag is filtered. so I tried to bypass the flag with `\”f\”\”l\”\”a\”\”g\”`.
 ![App Screenshot](https://github.com/majidgourkani/PWN-writeups/blob/main/images/cmd2-3.png)
 
-so now again we can use: `./cmd2 “command -p cat \”f\”\”l\”\”a\”\”g\””`
+so now again we can use: `./cmd2 "command -p cat \"f\"\"l\"\"a\"\"g\""`
 ![App Screenshot](https://github.com/majidgourkani/PWN-writeups/blob/main/images/cmd2-4.png)
